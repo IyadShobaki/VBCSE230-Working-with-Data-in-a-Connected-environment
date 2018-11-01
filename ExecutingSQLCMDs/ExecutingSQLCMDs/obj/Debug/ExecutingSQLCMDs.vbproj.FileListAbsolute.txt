@@ -1,0 +1,32 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\Database1.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\Database1_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\NORTHWND.MDF
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\NORTHWND_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week 6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\Database1.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\Database1_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\NORTHWND.MDF
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\NORTHWND_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\bin\Debug\ExecutingSQLCMDs.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week6\ExecutingSQLCMDs\ExecutingSQLCMDs\obj\Debug\ExecutingSQLCMDs.pdb
